@@ -237,7 +237,7 @@
             "searchable": 0,
             "quickSearch": 0
         },
-{
+        {
              "key": "yzzy",
              "name": "🎬yzzy┃接口",
              "type": 3,
@@ -245,11 +245,7 @@
              "searchable": 1,
              "quickSearch": 1,
              "changeable": 1,
-             "ext": {
-                 "api": "https://api.yzzy-api.com/inc/apijson.php",
-                 "list": "ac=list",
-                 "detail": "ac=detail",
-                 "parse": "https://vip.zykbf.com/?url="
-        }        
+             "ext": "{\"api\":\"https://api.yzzy-api.com/inc/apijson.php\",\"list\":\"ac=list\",\"detail\":\"ac=detail\",\"parse\":\"https://vip.zykbf.com/?url=\"}"
+        }
     ]
 }
