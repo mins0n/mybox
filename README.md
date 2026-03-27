@@ -4,7 +4,7 @@
 
 多仓订阅地址：
 
-https://gh.llkk.cc/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json
+https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/lmw.json
 
 单仓订阅地址：
 
