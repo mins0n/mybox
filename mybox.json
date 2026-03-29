@@ -156,13 +156,38 @@
       "jar": "./jar/fty.jar"
     },
     {
-      "key": "csp_bendi",
-      "name": "📂本地视频",
+      "key": "配置中心",
+      "name": "👨‍🍳‍配置┃中心",
       "type": 3,
-      "api": "csp_LocalFile",
+      "api": "csp_AweSomeGuard",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.43
+      },
+      "ext": {
+        "sp": "Config"
+      },
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg"
+    },
+    {
+      "key": "本地播放",
+      "name": "🐼本地┃播放",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 5,
+      "ext": {
+        "sp": "Local"
+      },
+      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg"
     }
   ],
   "parses": [
@@ -396,11 +421,6 @@
         },
         {
           "category": 4,
-          "name": "max-buffer-size",
-          "value": "5242880"
-        },
-        {
-          "category": 4,
           "name": "enable-accurate-seek",
           "value": "0"
         },
@@ -423,6 +443,11 @@
           "category": 4,
           "name": "mediacodec-hevc",
           "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
         }
       ]
     },
@@ -476,11 +501,6 @@
         },
         {
           "category": 4,
-          "name": "max-buffer-size",
-          "value": "5242880"
-        },
-        {
-          "category": 4,
           "name": "enable-accurate-seek",
           "value": "0"
         },
@@ -503,6 +523,11 @@
           "category": 4,
           "name": "mediacodec-hevc",
           "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
         }
       ]
     }
