@@ -1,5 +1,4 @@
 {
-  "spider": "./tvbox.jar",
   "lives": [
     {
       "name": "重庆有线",
@@ -97,7 +96,7 @@
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
-      "jar": "https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
+      "jar": "./jar/fty.jar"
     },
     {
       "key": "玩偶",
@@ -111,7 +110,7 @@
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
-      "jar": "https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
+      "jar": "./jar/fty.jar"
     },
     {
       "key": "米搜",
@@ -124,7 +123,7 @@
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
-      "jar": "https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
+      "jar": "./jar/fty.jar"
     },
     {
       "key": "抠搜",
@@ -137,7 +136,7 @@
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       },
-      "jar": "https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
+      "jar": "./jar/fty.jar"
     },
     {
       "key": "ZPan",
@@ -154,7 +153,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
+      "jar": "./jar/fty.jar"
     },
     {
       "key": "csp_bendi",
