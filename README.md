@@ -10,6 +10,7 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/tvboxs.
 
 https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/tvbox.json
 
+缝合订阅地址：
 https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/mybox.json
 
 ## 🔰Tg资源频道
