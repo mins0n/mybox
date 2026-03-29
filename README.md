@@ -10,6 +10,8 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/tvboxs.
 
 https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/tvbox.json
 
+https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/mybox.json
+
 ## 🔰Tg资源频道
 - 服务于tg搜
 - https://t.me/kkuc9
