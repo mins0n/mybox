@@ -15,7 +15,12 @@
       "url": "http://192.168.2.1/live/cuhd.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}"
+      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "catchup": {
+        "type": "append",
+        "replace": "livemode=1,livemode=4",
+        "source": ""
+      }
     }
   ],
   "sites": [
@@ -209,7 +214,7 @@
     },
     {
       "key": "高清资源库",
-      "name": "📺高清资源┃采集",
+      "name": "⛔️高清资源┃采集",
       "type": 1,
       "api": "https://api.yzzy-api.com/inc/apijson.php",
       "searchable": 1,
@@ -224,13 +229,13 @@
         "动作片",
         "喜剧片",
         "科幻片",
-        "福利",
-        "倫理片"
+        "倫理片",
+        "福利"
       ]
     },
     {
       "key": "360资源",
-      "name": "🕒360资源┃采集",
+      "name": "🧲360资源┃采集",
       "type": 1,
       "api": "https://360zy.com/api.php/seaxml/vod/",
       "searchable": 1,
@@ -266,15 +271,6 @@
         "港台动漫",
         "海外动漫"
       ]
-    },
-    {
-      "key": "豆瓣采集资源",
-      "name": "🍀豆瓣┃采集",
-      "type": 1,
-      "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 1
     },
     {
       "key": "量子",
