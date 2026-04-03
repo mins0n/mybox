@@ -75,11 +75,3 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/mybox.j
 ## 🫶使用说明
 - 所有源均收集于互联网，仅供测试研究使用，不得商用；
 - 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担；
-
-延伸閱讀
-文件	說明
-CONFIG.md	Vod / Live 完整配置欄位說明
-SPIDER.md	Spider 所有方法規格與回傳格式
-LOCAL.md	本地 HTTP API 所有端點完整說明
-LIVE.md	直播來源格式完整說明
-
