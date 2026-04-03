@@ -15,12 +15,7 @@
       "url": "http://192.168.2.1/live/cuhd.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "catchup": {
-        "type": "append",
-        "replace": "livemode=1,livemode=4",
-        "source": ""
-      }
+      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}"
     }
   ],
   "sites": [
