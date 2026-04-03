@@ -7,7 +7,7 @@
       "url": "http://192.168.2.1/live/cqyx.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}"
+      "epg": "https://api.erw.cc/?ch={name}&date={date}"
     },
     {
       "name": "联通",
@@ -15,7 +15,7 @@
       "url": "http://192.168.2.1/live/cuhd.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}"
+      "epg": "https://api.erw.cc/?ch={name}&date={date}"
     }
   ],
   "sites": [
