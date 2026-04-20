@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "杏吧资源",
-      "name": "⛔️杏吧资源",
+      "name": "🔞杏吧资源",
       "type": 1,
       "api": "https://xingba111.com/api.php/provide/vod/",
       "searchable": 1,
@@ -12,7 +12,7 @@
     },  
     {
       "key": "杏吧资源2",
-      "name": "⛔️杏吧资源2",
+      "name": "🔞杏吧资源2",
       "type": 1,
       "api": "https://xingba222.com/api.php/provide/vod/",
       "searchable": 1,
@@ -41,7 +41,7 @@
     },
     {
       "key": "优质资源库",
-      "name": "⛔️优质资源┃采集",
+      "name": "⛔优质资源┃采集",
       "type": 1,
       "api": "https://api.yzzy-api.com/inc/apijson.php",
       "searchable": 1,
