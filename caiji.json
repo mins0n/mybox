@@ -2,6 +2,15 @@
   "logo": "./assets/logo2025121201.png",
   "sites": [
     {
+      "key": "杏吧资源",
+      "name": "⛔️杏吧资源",
+      "type": 1,
+      "api": "https://xingba111.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },  
+    {
       "key": "电影天堂",
       "name": "🎬电影天堂┃采集",
       "type": 1,
@@ -659,7 +668,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 10
-    }
+    }   
   ],
   "headers": [
     {
