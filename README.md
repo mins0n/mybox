@@ -39,10 +39,10 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/mybox.j
 -  OK影视公开接口：http://ok213.top/ok
 -  OK备用接口：https://10352.kstore.vip/tv
 -  OK影视项目地址：https://github.com/FongMi/TV
-- （2）真心：https://tvbox.catvod.com/FongMi.json
-- （3）虎斑：http://hb.小虎斑.site:25252/仅供测试
-- （4）饭太硬：https://www.饭太硬.com/tv 
-- （5）肥猫：http://肥猫.com 
+- （2）饭太硬：https://www.饭太硬.com/tv 
+- （3）肥猫：http://肥猫.com  
+- （4）真心：https://tvbox.catvod.com/FongMi.json
+- （5）虎斑：http://hb.小虎斑.site:25252/仅供测试
 - （6）天天开心：http://rihou.cc:55/天天开心 
 - （7）小米：https://mitvbox.xyz/小米/DEMO.json
 - （8）摸鱼儿：http://我不是.摸鱼儿.com 
