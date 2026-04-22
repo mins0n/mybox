@@ -628,10 +628,10 @@
       "timeout": 10
     },
     {
-      "key": "🌺魔爪资源",
-      "name": "🌺魔爪资源",
+      "key": "🌺极速资源",
+      "name": "🌺极速资源",
       "type": 1,
-      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "api": "https://jszyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
