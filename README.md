@@ -38,7 +38,7 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/mybox.j
 - （1）OK影视内部接口：http://ok213.top/tv
 -  OK影视公开接口：http://ok213.top/ok
 -  OK备用接口：https://10352.kstore.vip/tv
--  OK影视版本项目地址：https://github.com/FongMi/TV
+-  OK影视项目地址：https://github.com/FongMi/TV
 - （2）真心：https://tvbox.catvod.com/FongMi.json
 - （3）虎斑：http://hb.小虎斑.site:25252/仅供测试
 - （4）饭太硬：https://www.饭太硬.com/tv 
