@@ -35,7 +35,7 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/mybox.j
 - https://ghproxy.cn/
 
 ## ✨热门(TVBox、影视仓、OK影视)配置接口
-- （1）OK内部接口：http://ok213.top/tv
+- （1）OK影视内部接口：http://ok213.top/tv
 -  OK影视公开接口：http://ok213.top/ok
 -  OK备用接口：https://10352.kstore.vip/tv
 -  OK影视版本项目地址：https://github.com/FongMi/TV
