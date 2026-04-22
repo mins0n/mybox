@@ -279,7 +279,7 @@
       "key": "🌺豆瓣资源",
       "name": "🌺豆瓣资源",
       "type": 1,
-      "api": "https://caiji.dbzy.tv/api.php/provide/vod",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
