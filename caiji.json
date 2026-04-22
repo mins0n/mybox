@@ -573,21 +573,10 @@
       "timeout": 10
     },
     {
-      "key": "🌺金鹰点播",
-      "name": "🌺金鹰点播",
-      "type": 1,
-      "api": "https://jinyingzy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
       "key": "🌺金鹰资源",
       "name": "🌺金鹰资源",
       "type": 1,
-      "api": "https://jyzyapi.com/api.php/provide/vod",
+      "api": "https://jyzyapi.com/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
