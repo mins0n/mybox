@@ -1,42 +1,6 @@
 {
   "logo": "./assets/logo2025121201.png",
-  "sites": [
-    {
-      "key": "细胞网",
-      "name": "🔞细胞网",
-      "type": 1,
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },      
-    {
-      "key": "91视频",
-      "name": "🔞91视频",
-      "type": 1,
-      "api": "https://91av.cyou/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },      
-    {
-      "key": "杏吧资源",
-      "name": "🔞杏吧资源",
-      "type": 1,
-      "api": "https://xingba111.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },  
-    {
-      "key": "杏吧资源2",
-      "name": "🔞杏吧资源2",
-      "type": 1,
-      "api": "https://xingba222.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },     
+  "sites": [   
     {
       "key": "电影天堂",
       "name": "🎬电影天堂┃采集",
@@ -695,7 +659,43 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 10
-    }   
+    },     
+    {
+      "key": "杏吧资源",
+      "name": "🔞杏吧资源",
+      "type": 1,
+      "api": "https://xingba111.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },  
+    {
+      "key": "杏吧资源2",
+      "name": "🔞杏吧资源2",
+      "type": 1,
+      "api": "https://xingba222.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
+    {
+      "key": "细胞网",
+      "name": "🔞细胞网",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },      
+    {
+      "key": "91视频",
+      "name": "🔞91视频",
+      "type": 1,
+      "api": "https://91av.cyou/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }    
   ],
   "headers": [
     {
