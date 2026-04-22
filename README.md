@@ -55,7 +55,7 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/mybox.j
 - （17）潇洒：https://9877.kstore.space/AnotherD/api.json
 
 ## 🔰影视软件下载地址
-- [OK影视下载地址](https://pan.quark.cn/s/de15b29d06ab)
+- [OK影视下载地址](https://github.com/lystv/fmapp/releases)
 - [蜂蜜影视下载地址](https://pan.quark.cn/s/dbb8599d1a0d)
 - [影视仓下载地址](https://pan.quark.cn/s/5b22c647669d)
 - [Easybox下载地址](https://pan.quark.cn/s/e26f04897443)
