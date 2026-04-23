@@ -684,7 +684,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }    
+    },
+    {
+      "key": "javrom",
+      "name": "🔞javrom",
+      "type": 1,
+      "api": "https://javrom.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }      
   ],
   "headers": [
     {
