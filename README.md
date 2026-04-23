@@ -51,8 +51,9 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/mybox.j
 - （17）潇洒：https://9877.kstore.space/AnotherD/api.json
 
 ## 🧲接口收集
-- 奇奇接口收集：https://bbs.qiqiv.cn/thread-5210-1-1.html
-- 采集接口收集：https://www.zzzypro.com/
+- 奇奇：https://bbs.qiqiv.cn/thread-5210-1-1.html
+- 站长：https://www.zzzypro.com/
+- 影视资源API：https://cnb.cool/hechangfeng/blog/-/issues/13
 
 ## 🔰影视软件下载地址
 - [OK影视下载地址](https://github.com/lystv/fmapp/releases)
