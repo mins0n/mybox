@@ -50,7 +50,7 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/mybox.j
 - （16）林中小屋：https://8815.kstore.vip/tvbox/Ace
 - （17）潇洒：https://9877.kstore.space/AnotherD/api.json
 
-## 🔰接口收集
+## 🧲接口收集
 - 奇奇接口收集：https://bbs.qiqiv.cn/thread-5210-1-1.html
 - 采集接口收集：https://www.zzzypro.com/
 
@@ -64,6 +64,6 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/mybox.j
 - [影視+下载地址](https://pan.quark.cn/s/d004fc6d8d36)
 - [宝盒下载地址](https://pan.quark.cn/s/6eef2fa1b59a)
 
-## 🫶使用说明
+## ⚠使用说明
 - 所有源均收集于互联网，仅供测试研究使用，不得商用；
 - 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担；
