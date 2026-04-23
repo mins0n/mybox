@@ -56,14 +56,14 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/mybox.j
 - 何丰：https://cnb.cool/hechangfeng/blog/-/issues/13
 
 ## 🔰影视软件下载地址
-- [OK影视下载地址](https://github.com/lystv/fmapp/releases)
-- [蜂蜜影视下载地址](https://pan.quark.cn/s/dbb8599d1a0d)
-- [影视仓下载地址](https://pan.quark.cn/s/5b22c647669d)
-- [Easybox下载地址](https://pan.quark.cn/s/e26f04897443)
-- [peekpili下载地址](https://pan.quark.cn/s/fac3791a0c24)
-- [TVBox_黑盒和白盒下载地址](https://pan.quark.cn/s/4670b8ee41a0)
-- [影視+下载地址](https://pan.quark.cn/s/d004fc6d8d36)
-- [宝盒下载地址](https://pan.quark.cn/s/6eef2fa1b59a)
+- [OK影视](https://github.com/lystv/fmapp/releases)
+- [蜂蜜影视](https://pan.quark.cn/s/dbb8599d1a0d)
+- [影视仓](https://pan.quark.cn/s/5b22c647669d)
+- [Easybox](https://pan.quark.cn/s/e26f04897443)
+- [peekpili](https://pan.quark.cn/s/fac3791a0c24)
+- [TVBox_黑盒和白盒](https://pan.quark.cn/s/4670b8ee41a0)
+- [影視+](https://pan.quark.cn/s/d004fc6d8d36)
+- [宝盒](https://pan.quark.cn/s/6eef2fa1b59a)
 
 ## ⚠使用说明
 - 所有源均收集于互联网，仅供测试研究使用，不得商用；
