@@ -56,7 +56,9 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/mybox.j
 - （15）星辰：https://fmbox.cc 
 - （16）林中小屋：https://8815.kstore.vip/tvbox/Ace
 - （17）潇洒：https://9877.kstore.space/AnotherD/api.json
+- 
 - 奇奇接口收集：https://bbs.qiqiv.cn/thread-5210-1-1.html
+- 采集接口收集：https://www.zzzypro.com/
 
 ## 🔰影视软件下载地址
 - [OK影视下载地址](https://github.com/lystv/fmapp/releases)
