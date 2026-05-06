@@ -1,40 +1,6 @@
 {
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
-  "lives": [
-    {
-      "name": "aptv",
-      "type": 0,
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "playerType": 2,
-      "ua": "okhttp/3.15",
-      "epg": "https://api.erw.cc/?ch={name}&date={date}"
-    },
-    {
-      "name": "有线",
-      "type": 0,
-      "url": "http://192.168.2.1/live/cqyx.txt",
-      "playerType": 2,
-      "ua": "okhttp/3.15",
-      "epg": "https://api.erw.cc/?ch={name}&date={date}"
-    },
-    {
-      "name": "cquhd",
-      "type": 0,
-      "url": "http://192.168.2.1/live/cquhd.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "联通",
-      "type": 0,
-      "url": "http://192.168.2.1/live/cquhd.txt",
-      "playerType": 1,
-      "epg": "https://api.erw.cc/?ch={name}&date={date}",
-      "catchup": {
-        "type": "append",
-        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-      }
-    }
-  ],
+  "lives": [],
   "sites": [
     {
       "key": "豆瓣",
