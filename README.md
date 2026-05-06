@@ -65,6 +65,9 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/mins0n/mybox/master/mybox.j
 - [影視+](https://pan.quark.cn/s/d004fc6d8d36)
 - [宝盒](https://pan.quark.cn/s/6eef2fa1b59a)
 
+## 🛠工具
+- [TVBOX加解密](https://www.qiushui.vip/gj/jm.html)
+
 ## ⚠使用说明
 - 所有源均收集于互联网，仅供测试研究使用，不得商用；
 - 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担；
